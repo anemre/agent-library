@@ -6,7 +6,7 @@ This repository stores reusable agents and skills.
 
 - `agents/` contains one directory per agent.
 - `skills/` contains globally reusable skills.
-- `.agents/tasks/` contains ephemeral agent working files such as `PLAN.md` and task slices.
+- `.agents/` contains agent working state such as plans and task slices.
 - `DOMAIN.md` contains shared vocabulary for this repository.
 
 ## Composition Model
